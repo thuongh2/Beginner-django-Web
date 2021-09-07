@@ -1,0 +1,26 @@
+.content{
+
+    margin: 15px 100px;
+   
+}
+
+#content{
+    margin-bottom: 20px;
+}
+.card {
+    margin: 20px 20px;
+    float: left;
+}
+
+.select {
+    float: right;
+}
+
+h1 {
+    color: red;
+}
+
+a {
+    color: red;
+}
+
